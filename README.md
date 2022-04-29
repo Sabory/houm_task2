@@ -7,3 +7,7 @@
 5. ¿Cuál es la temperatura promedio para las visitas realizadas en la localidad de Suba?
 
 All the explanation can be found in the jupyter file: `./solution.ipynb`
+
+# Dependencies
+- Python 3.8.10 was used for this exercise.
+- All external dependencies are included in the `requirements.txt` file.
